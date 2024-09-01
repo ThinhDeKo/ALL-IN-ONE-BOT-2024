@@ -1,5 +1,5 @@
 {
-    "token": "",
+    "token": "10evnZEmWe9uqYJMnQKVVbPeHQuopH9y",
     "language": "en",
     "prefix": "!",
     "mongodbUri": "mongodb+srv://thinhpham1404:thinh123@cluster0.acfbn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
@@ -7,8 +7,8 @@
     "excessCommands": {
         "utility": true,
         "other": true,
-        "hentai": false,
-        "lavalink": false,
+        "hentai": true,
+        "lavalink": true,
         "troll": true
     },
     "categories": {
