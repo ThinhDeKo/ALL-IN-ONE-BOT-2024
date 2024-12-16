@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://thinhpham1404:thinh123@cluster0.acfbn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
@@ -25,7 +25,7 @@
             "host": "lava.catfein.com",
             "port": 4000,
             "password": "catfein",
-            "secure": false
+            "secure": true
         }
     }, 
     "spotifyClientId": "f71a3da30e254962965ca2a89d6f74b9",
