@@ -22,9 +22,9 @@
     },
     "lavalink": {
         "lavalink": {
-            "host": "lava-v4.ajieblogs.eu.org",
-            "port": 80,
-            "password": "https://dsc.gg/ajidevserver",
+            "host": "lavav4.prplmoe.me",
+            "port": 1118,
+            "password": "prplmoe.me",
             "secure": false
         }
     },
