@@ -22,10 +22,10 @@
     },
      "lavalink": {
         "lavalink": {
-            "host": "lava.catfein.com",
-            "port": 4000,
-            "password": "catfein",
-            "secure": true
+            "host": "lava-v3.ajieblogs.eu.org",
+            "port": 80,
+            "password": "https://dsc.gg/ajidevserver",
+            "secure": false
         }
     }, 
     "spotifyClientId": "f71a3da30e254962965ca2a89d6f74b9",
