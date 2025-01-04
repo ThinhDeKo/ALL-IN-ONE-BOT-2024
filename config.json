@@ -22,9 +22,9 @@
     },
     "lavalink": {
         "lavalink": {
-            "host": "lavahatry4.techbyte.host",
-            "port": 3000,
-            "password": "NAIGLAVA-dash.techbyte.host",
+            "host": "ava.catfein.com",
+            "port": 4000,
+            "password": "catfein",
             "secure": false
         }
     },
