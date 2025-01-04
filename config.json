@@ -22,9 +22,9 @@
     },
     "lavalink": {
         "lavalink": {
-            "host": "ava.catfein.com",
-            "port": 4000,
-            "password": "catfein",
+            "host": "lavav4.prplmoe.me",
+            "port": 1118,
+            "password": "prplmoe.me",
             "secure": false
         }
     },
